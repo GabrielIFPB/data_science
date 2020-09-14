@@ -1,3 +1,3 @@
-# data_science
+# Machine Learning e Data Science com Python
 
-use python 3.6 or higher
+usando google colab notebook para escrever os testes
